@@ -84,4 +84,9 @@ export function MaterialFromTexture(name, options={ diffuseTexture:"", specularT
     return material
 }
 
+export function MaterialToon(name, options={ diffuseTexture:"", specularTexture:"", emisissiveTexture:"", ambientTexture:"" }, scene)
+{
+
+}
+
 
