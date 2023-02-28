@@ -29,7 +29,7 @@ const onSceneReady = (e) => {
     
     const sunScale  = 1/500000;
     const planetsScales =  1/50000;
-    const distanceScales = sunScale/50;
+    const distanceScales = sunScale/45;
 
     const points = 360;
 
